@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/login/resources/js/app.min.js" />
+        <item url="file://$PROJECT_DIR$/login/resources/js/bootstrap.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/prettify.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/d3.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/file.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/jquery.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/nv.d3.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/popper.min.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/demo/highlight.pack.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/tools/launcher.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/tools/lodash.cloneDeep.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/symfony/error-handler/Resources/assets/js/exception.min.js" />
+        <item url="file://$PROJECT_DIR$/login/vendor/symfony/var-dumper/Resources/js/htmlDescriptor.min.js" />
+        <item url="file://$PROJECT_DIR$/login/webpack.mix.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/login/resources/js/app.min.js" />
+      <root url="file://$PROJECT_DIR$/login/resources/js/bootstrap.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/prettify.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/whoops.base.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/filp/whoops/src/Whoops/Resources/js/zepto.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/d3.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/file.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/jquery.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/nv.d3.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/js/popper.min.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/demo/highlight.pack.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/tools/launcher.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/scrivo/highlight.php/tools/lodash.cloneDeep.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/symfony/error-handler/Resources/assets/js/exception.min.js" />
+      <root url="file://$PROJECT_DIR$/login/vendor/symfony/var-dumper/Resources/js/htmlDescriptor.min.js" />
+      <root url="file://$PROJECT_DIR$/login/webpack.mix.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
